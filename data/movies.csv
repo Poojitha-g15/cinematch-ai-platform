@@ -1,0 +1,21 @@
+id,title,genre,year,runtime,description,tags,vote_average
+1,The Quantum Heist,Sci-Fi,2024,118,A team of engineers races to stop a quantum breach before a global banking network collapses.,quantum cyber security heist banking thriller,8.4
+2,Midnight Debugger,Thriller,2023,104,A junior developer discovers production logs that reveal a hidden insider attack.,software logs incident debugging security,8.1
+3,Campus Connect,Drama,2022,96,Students build a community app while balancing internships family and friendship.,college app teamwork friendship career,7.6
+4,Data Lake Mystery,Mystery,2024,111,A data analyst investigates missing records inside a massive healthcare data lake.,data analytics healthcare mystery pipeline,8.0
+5,Orbit Rescue,Adventure,2021,123,A rescue crew designs a risky orbital maneuver to save a stranded satellite team.,space rescue engineering mission,7.9
+6,Firewall City,Action,2024,109,A city depends on a security architect after a ransomware network targets public infrastructure.,ransomware cyber defense infrastructure action,8.2
+7,Love in Low Latency,Romance,2023,101,Two distributed systems engineers meet while fixing a global video streaming outage.,romance streaming distributed systems latency,7.4
+8,The Silent Model,Drama,2022,115,A machine learning researcher questions a prediction system used in public policy.,machine learning ethics policy model,8.3
+9,Search Index,Documentary,2021,88,A look at how search engines crawl rank and retrieve information for billions of users.,search indexing algorithms documentary data,7.8
+10,Cache Miss,Comedy,2023,94,A startup team tries to survive launch day when every cache layer fails at once.,startup comedy cache backend outage,7.3
+11,Neural Rain,AI,2024,120,A climate lab uses neural networks to forecast extreme rainfall in coastal cities.,ai climate neural networks forecasting data,8.5
+12,The Last Migration,Drama,2020,107,A legacy banking platform must be migrated before the last mainframe engineer retires.,banking migration legacy systems software,7.7
+13,Kernel Panic,Horror,2022,99,A research lab's experimental operating system begins behaving unpredictably.,operating systems kernel lab suspense,7.2
+14,Recommendation Engine,AI,2024,113,A small streaming company builds an ethical recommendation engine to compete with larger platforms.,recommendation system ai streaming personalization,8.1
+15,Supply Chain Zero,Thriller,2023,116,An analyst traces a software supply chain compromise before it reaches hospitals.,supply chain security hospitals analytics,8.0
+16,Open Source Hearts,Romance,2021,97,Two maintainers of rival libraries collaborate during a global hackathon.,open source collaboration hackathon romance,7.5
+17,Vector Space,AI,2024,106,A research group uses vector embeddings to solve a multilingual search problem.,ai embeddings vector search nlp,8.4
+18,Blue Team Weekend,Action,2023,102,A college cybersecurity club defends a simulated city from escalating attacks.,cybersecurity blue team competition defense,7.9
+19,Feature Flag,Fiction,2022,100,A product manager rolls out a feature that changes the behavior of a social network overnight.,product feature flag social network ethics,7.6
+20,Pipeline Ghost,Data,2024,108,A data engineer hunts a silent bug that corrupts machine learning features every night.,data engineering ml pipeline bug,8.2
